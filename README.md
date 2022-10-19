@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/serine/serine/master/avatar3.jpg" align="center;" width="100%">
+<img src="https://raw.githubusercontent.com/serine/serine/master/avatar3.jpg" align="center;" width="50%">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=serine)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serine&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
